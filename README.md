@@ -5,7 +5,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=s1f102101615&theme=show_icons=ture" />
 </p>
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
-<img alt="github stats" height="150px" src="https://github-profile-trophy.vercel.app/?username=s1f102101615&theme=flat" />
+<img alt="github stats" height="150px" src="https://github-profile-trophy.vercel.app/?username=s1f102101615&theme=column=7" />
 
 <!--
 **s1f102101615/s1f102101615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
