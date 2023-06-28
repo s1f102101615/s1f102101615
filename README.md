@@ -4,7 +4,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f102101615&layout=compact&show_icons=true&theme=" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=s1f102101615&theme=show_icons=ture" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=s1f102101615&theme=&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=s1f102101615&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **s1f102101615/s1f102101615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
