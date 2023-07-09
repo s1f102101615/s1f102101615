@@ -7,11 +7,3 @@
 </p>
 <img alt="github stats" height="150px" src="https://github-profile-trophy.vercel.app/?username=s1f102101615&theme=Flat&column=7" />
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1f102101615&theme=Flat" width="800">
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1f102101615&theme=Flat" width="400" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1f102101615&theme=Flat&utcOffset=8" width="400" />
-</div>
