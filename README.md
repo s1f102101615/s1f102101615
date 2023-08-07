@@ -1,4 +1,6 @@
 ## 田植え一生継続 🌱👋
+私は情報系大学3年生のフルスタックエンジェニアです。
+アイデアを形にする事がとても好きです :)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f102101615&layout=compact&show_icons=true&theme=" />
