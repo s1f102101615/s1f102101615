@@ -2,6 +2,7 @@
 私は情報系大学3年生のフルスタックエンジェニアです。<br>
 
 アイデアを形にする事をモチベーションに複数のアプリケーションを作成しています。
+TypeScriptを主な言語にしています。
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f102101615&layout=compact&show_icons=true&theme=" />
